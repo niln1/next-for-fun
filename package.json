@@ -1,0 +1,24 @@
+{
+  "name": "next-for-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niln1/next-for-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niln1/next-for-fun/issues"
+  },
+  "homepage": "https://github.com/niln1/next-for-fun#readme",
+  "dependencies": {
+    "next": "^1.2.3",
+    "react": "^15.4.1"
+  }
+}
