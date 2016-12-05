@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/niln1/next-for-fun#readme",
   "dependencies": {
+    "apollo-client": "^0.5.10",
+    "graphql-tag": "^1.1.2",
     "next": "^1.2.3",
-    "react": "^15.4.1"
+    "react": "^15.4.1",
+    "react-apollo": "^0.6.0"
   }
 }
